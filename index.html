@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@monsieurtino" />
+    <meta name="twitter:title" content="L'élection européenne 2019 décortiquée" />
+    <meta name="twitter:description" content="Découvre le programme des partis candidats à l'élection européenne !" />
+    <meta name="twitter:image" content="" />
+
+    <meta property="og:url" content="https://2017.mrtino.eu">
+    <meta property="og:title" content="L'élection européenne 2019 décortiquée">
+    <meta property="og:description" content="Découvre le programme des partis candidats à l'élection européenne !">
+    <meta property="og:image" content="">
+
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#17181c" />
+
+    <title>Les élections européennes de 2019</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="fonts/fonts.css" rel="stylesheet" type="text/css">
+
+    <!-- Theme CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <i class="fa fa-bank"></i> Les européennes décortiquées
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Intro</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#listes">Listes</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#infos">Infos pratiques</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">2019</h1>
+                        <p class="intro-text">Le programme de chaque parti aux élections européennes de 2019
+                            décortiqué.</p>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>J'y comprends rien aux élections européennes.</h2>
+                <p>Il y a beaucoup de listes, et avec le contexte politique actuel, c'est difficile de faire son choix.
+                </p>
+                <p>Ce site te propose de découvrir le contenu du programme des listes majoritaires.</p>
+                <a href="#listes" class="btn btn-default btn-lg page-scroll">Découvrons les programmes !</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section id="listes" class="content-section text-center">
+        <div class="download-section">
+            <div class="letmeread">
+                <div class="container">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <h2>Choisis la liste dont tu veux en savoir plus :</h2>
+                    </div>
+                    <div class="col-lg-8" style="width: 100%;">
+                        <ul>
+                            <li>
+                                <h3 style="text-align: left;">Lutte Ouvrière <button class="btn btn-default btn-sm"
+                                        onclick="lodiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="lotext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Nouveau Parti Anticapitaliste <button
+                                        class="btn btn-default btn-sm" onclick="npadiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="npatext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Parti Communiste Français <button
+                                        class="btn btn-default btn-sm" onclick="pcfdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="pcftext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">L'Europe Insoumise <button class="btn btn-default btn-sm"
+                                        onclick="lfidiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="lfitext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Europe Écologie Les Verts <button
+                                        class="btn btn-default btn-sm" onclick="eelvdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="eelvtext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Génération·s <button class="btn btn-default btn-sm"
+                                        onclick="generationsdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="generationstext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">La République En Marche ! <button
+                                        class="btn btn-default btn-sm" onclick="lremdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="lremtext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Gilets Jaunes <button class="btn btn-default btn-sm"
+                                        onclick="ricdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="rictext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Les Républicains <button class="btn btn-default btn-sm"
+                                        onclick="lrdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="lrtext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Les Amoureux de la France <button
+                                        class="btn btn-default btn-sm" onclick="dlfdiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="dlftext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Union Populaire Républicaine <button
+                                        class="btn btn-default btn-sm" onclick="uprdiv()">Dérouler</button></button>
+                                </h3>
+                                <div style="text-align: left;" id="uprtext"></div>
+                            </li>
+                            <li>
+                                <h3 style="text-align: left;">Rassemblement National <button
+                                        class="btn btn-default btn-sm" onclick="rndiv()">Dérouler</button></h3>
+                                <div style="text-align: left;" id="rntext"></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="infos" class="content-section text-center">
+        <div class="countdown-section">
+            <div class="container">
+                <h4>Les élections ont lieu dans :</h4><br />
+                <p><b><span id="clock"></span></b></p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Le contenu de ce site est sous licence Creative Commons Attribution 4.0, il a été créé par <a
+                    href="https://mrtino.eu">Leia</a>.
+                Le code source du site, basé sur le template <em>Grayscale</em> (disponible <a
+                    href="http://startbootstrap.com/template-overviews/grayscale/">ici</a>)
+                est sous <a href="https://www.apache.org/licenses/LICENSE-2.0">licence Apache</a>.<br>Images provenant
+                de Wikimedia Commons et sous licence Creative Commons BY-SA. <a
+                    href="https://fr.wikipedia.org/wiki/Fichier:Election_MG_3460.JPG">Bureau
+                    de vote</a>, par Rama, 2007. <a
+                    href="https://commons.wikimedia.org/wiki/File:Parlement_europ%C3%A9en_-_H%C3%A9micycle_(1).jpg">Parlement
+                    Européen</a> par Gzen92, 2016. <a
+                    href="https://commons.wikimedia.org/wiki/File:Foule_en_d%C3%A9fil%C3%A9.jpg">Foule
+                    en défilé</a> par Eric Walter, 11 janvier 2015.</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+
+    <!-- Core of the website -->
+    <script src="candidats.js"></script>
+
+    <!-- Countdown code -->
+    <script src="js/countdown.js"></script>
+
+    <!-- Compte à rebours avant le jour des élections -->
+    <script>
+        var clock = document.getElementById("clock")
+            , targetDate = new Date("May 26, 2019 20:00:00");
+
+        clock.innerHTML = countdown(targetDate).toString();
+        countdown.setLabels(' milliseconde| seconde| minute| heure| jour| semaine| mois| année| décennie| siècle| millénaire', ' millisecondes| secondes| minutes| heures| jours| semaines| mois| années| décennies| siècles| millénaires', ' et ', ', ', 'maintenant');
+    </script>
+
+    <!--Pour rendre le compte à rebours dynamique-->
+    <script>
+        var clockt = document.getElementById("countdown-holder")
+            , targetDate = new Date("May 26, 2019 20:00:00");
+
+        clock.innerHTML = countdown(targetDate).toString();
+        setInterval(function () {
+            clock.innerHTML = countdown(targetDate).toString();
+        }, 1000);
+    </script>
+</body>
+
+</html>

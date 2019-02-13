@@ -1,0 +1,3 @@
+##### Le programme ainsi que la liste des candidats NPA ne sont pas encore dévoilés.
+
+<h2><button class="btn btn-default btn-sm" onclick="npaclose()">Fermer</button></h2>
