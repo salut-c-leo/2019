@@ -9,12 +9,12 @@
     <meta name="twitter:site" content="@monsieurtino" />
     <meta name="twitter:title" content="L'élection européenne 2019 décortiquée" />
     <meta name="twitter:description" content="Découvre le programme des partis candidats à l'élection européenne !" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="https://2019.mrtino.eu/img/vote.jpg" />
 
-    <meta property="og:url" content="https://2017.mrtino.eu">
+    <meta property="og:url" content="https://2019.mrtino.eu">
     <meta property="og:title" content="L'élection européenne 2019 décortiquée">
     <meta property="og:description" content="Découvre le programme des partis candidats à l'élection européenne !">
-    <meta property="og:image" content="">
+    <meta property="og:image" content="https://2019.mrtino.eu/img/vote.jpg">
 
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#17181c" />
@@ -29,8 +29,8 @@
     <link href="fonts/fonts.css" rel="stylesheet" type="text/css">
 
     <!-- Theme CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <link href="css/grayscale/grayscale.css" rel="stylesheet">
+    <link href="css/leia/style.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -113,70 +113,71 @@
             <div class="letmeread">
                 <div class="container">
                     <div class="col-lg-8 col-lg-offset-2">
+                        <br>
                         <h2>Choisis la liste dont tu veux en savoir plus :</h2>
                     </div>
                     <div class="col-lg-8" style="width: 100%;">
                         <ul>
                             <li>
-                                <h3 style="text-align: left;">Lutte Ouvrière <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">Lutte Ouvrière <button class="btn btn-default btn-sm"
                                         onclick="lodiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="lotext"></div>
+                                <div class="alignitformeplease" id="lotext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Nouveau Parti Anticapitaliste <button
+                                <h3 class="alignitformeplease">Nouveau Parti Anticapitaliste <button
                                         class="btn btn-default btn-sm" onclick="npadiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="npatext"></div>
+                                <div class="alignitformeplease" id="npatext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Parti Communiste Français <button
+                                <h3 class="alignitformeplease">Parti Communiste Français <button
                                         class="btn btn-default btn-sm" onclick="pcfdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="pcftext"></div>
+                                <div class="alignitformeplease" id="pcftext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">L'Europe Insoumise <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">L'Europe Insoumise <button class="btn btn-default btn-sm"
                                         onclick="lfidiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="lfitext"></div>
+                                <div class="alignitformeplease" id="lfitext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Europe Écologie Les Verts <button
+                                <h3 class="alignitformeplease">Europe Écologie Les Verts <button
                                         class="btn btn-default btn-sm" onclick="eelvdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="eelvtext"></div>
+                                <div class="alignitformeplease" id="eelvtext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Génération·s <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">Génération·s <button class="btn btn-default btn-sm"
                                         onclick="generationsdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="generationstext"></div>
+                                <div class="alignitformeplease" id="generationstext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">La République En Marche ! <button
+                                <h3 class="alignitformeplease">La République En Marche ! <button
                                         class="btn btn-default btn-sm" onclick="lremdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="lremtext"></div>
+                                <div class="alignitformeplease" id="lremtext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Gilets Jaunes <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">Gilets Jaunes <button class="btn btn-default btn-sm"
                                         onclick="ricdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="rictext"></div>
+                                <div class="alignitformeplease" id="rictext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Les Républicains <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">Les Républicains <button class="btn btn-default btn-sm"
                                         onclick="lrdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="lrtext"></div>
+                                <div class="alignitformeplease" id="lrtext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Les Amoureux de la France <button
+                                <h3 class="alignitformeplease">Les Amoureux de la France <button
                                         class="btn btn-default btn-sm" onclick="dlfdiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="dlftext"></div>
+                                <div class="alignitformeplease" id="dlftext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Union Populaire Républicaine <button
+                                <h3 class="alignitformeplease">Union Populaire Républicaine <button
                                         class="btn btn-default btn-sm" onclick="uprdiv()">Dérouler</button></button>
                                 </h3>
-                                <div style="text-align: left;" id="uprtext"></div>
+                                <div class="alignitformeplease" id="uprtext"></div>
                             </li>
                             <li>
-                                <h3 style="text-align: left;">Rassemblement National <button
+                                <h3 class="alignitformeplease">Rassemblement National <button
                                         class="btn btn-default btn-sm" onclick="rndiv()">Dérouler</button></h3>
-                                <div style="text-align: left;" id="rntext"></div>
+                                <div class="alignitformeplease" id="rntext"></div>
                             </li>
                         </ul>
                     </div>
@@ -198,18 +199,19 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Le contenu de ce site est sous licence Creative Commons Attribution 4.0, il a été créé par <a
-                    href="https://mrtino.eu">Leia</a>.
-                Le code source du site, basé sur le template <em>Grayscale</em> (disponible <a
-                    href="http://startbootstrap.com/template-overviews/grayscale/">ici</a>)
-                est sous <a href="https://www.apache.org/licenses/LICENSE-2.0">licence Apache</a>.<br>Images provenant
-                de Wikimedia Commons et sous licence Creative Commons BY-SA. <a
-                    href="https://fr.wikipedia.org/wiki/Fichier:Election_MG_3460.JPG">Bureau
-                    de vote</a>, par Rama, 2007. <a
-                    href="https://commons.wikimedia.org/wiki/File:Parlement_europ%C3%A9en_-_H%C3%A9micycle_(1).jpg">Parlement
-                    Européen</a> par Gzen92, 2016. <a
-                    href="https://commons.wikimedia.org/wiki/File:Foule_en_d%C3%A9fil%C3%A9.jpg">Foule
-                    en défilé</a> par Eric Walter, 11 janvier 2015.</p>
+            <p>Dernière mise à jour du site : 17 février 2019.<br>Le contenu de ce site est sous licence Creative
+                Commons Attribution 4.0, il a été rédigé par <a href="https://mrtino.eu">Leia</a>.<br>
+                Vous pouvez contribuer à l'amélioration du site en allant sur sa page <a
+                    href="https://github.com/mrtino/2019">GitHub</a>, où vous trouverez également toutes les licences et
+                ressources utilisées pour ce projet.<br>Images provenant
+                de Wikimedia Commons et sous licence Creative Commons BY-SA. <em><a
+                        href="https://fr.wikipedia.org/wiki/Fichier:Election_MG_3460.JPG">Bureau
+                        de vote</a></em>, par Rama, 2007. <em><a
+                        href="https://commons.wikimedia.org/wiki/File:Parlement_europ%C3%A9en_-_H%C3%A9micycle_(1).jpg">Parlement
+                        Européen</a></em> par Gzen92, 2016. <em><a
+                        href="https://commons.wikimedia.org/wiki/File:Foule_en_d%C3%A9fil%C3%A9.jpg">Foule
+                        en défilé</a></em> par Eric Walter, 11 janvier 2015.<br>Ce site est accessible via Tor en
+                cliquant <a href="http://7bdvc2l5duvsyx5otznebv3oisz6pzyj22niu5bzxmyqkme6odm5lcid.onion">ici</a>.</p>
         </div>
     </footer>
 
@@ -220,13 +222,13 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
+    <script src="js/grayscale/grayscale.min.js"></script>
 
     <!-- Core of the website -->
-    <script src="candidats.js"></script>
+    <script src="js/leia/candidats.js"></script>
 
     <!-- Countdown code -->
-    <script src="js/countdown.js"></script>
+    <script src="js/countdown/countdown.js"></script>
 
     <!-- Compte à rebours avant le jour des élections -->
     <script>

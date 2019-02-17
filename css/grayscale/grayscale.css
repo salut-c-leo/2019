@@ -138,7 +138,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/europarl1.jpg) no-repeat top center fixed;
+  background: url(../../img/europarl1.jpg) no-repeat top center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -245,7 +245,7 @@ a:focus {
   height: auto;
   padding: 50px 0;
   color: white;
-  background: url(../img/foule.jpg) no-repeat bottom center fixed;
+  background: url(../../img/foule.jpg) no-repeat bottom center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -304,7 +304,7 @@ ul.banner-social-buttons {
   height: auto;
   padding: 50px 0;
   color: white;
-  background: url(../img/vote.jpg) no-repeat top center fixed;
+  background: url(../../img/vote.jpg) no-repeat top center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;

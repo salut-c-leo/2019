@@ -1,3 +1,6 @@
 ##### Tête de liste : Yannick Jadot
 
+La liste complète, ainsi que le programme d'EELV ne sont pas encore connus. Par ailleurs, la présence du parti aux élections est encore incertaine, leur budget de campagne n'étant pas encore assuré.
+
+<hr>
 <h2><button class="btn btn-default btn-sm" onclick="eelvclose()">Fermer</button></h2>

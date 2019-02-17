@@ -2,4 +2,5 @@
 
 Le programme n'est pas encore communiqué. La liste n'est pas encore complète.
 
+<hr>
 <h2><button class="btn btn-default btn-sm" onclick="lrclose()">Fermer</button></h2>
