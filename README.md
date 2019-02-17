@@ -3,7 +3,7 @@ Site listant les programmes des principaux partis aux élections européennes de
 
 # Fonctionnement du site
 Le programme de chaque parti est écrit dans un fichier spécifique, dans le dossier `programmes`. Il est rédigé en Markdown pour faciliter la rédaction. Pour la conversion en HTML, `pandoc` est utilisé et appelé via le script `convert.sh` présent dans le dossier.
-`candidats.js` (à la racine du dossier) charge le fichier HTML correspondant au parti auquel on souhaite obtenir plus d'informations (via le bouton "Dérouler"). Il permet aussi de replier la page pour éviter d'avoir une page faisant un kilomètre.
+`candidats.js` (dans `js/leia`) charge le fichier HTML correspondant au parti auquel on souhaite obtenir plus d'informations (via le bouton "Dérouler"). Il permet aussi de replier la page pour éviter d'avoir une page faisant un kilomètre.
 `index.html` contient un compte-à-rebours réglé sur le 26 mai 2019 (date des élections européennes en France). Évidemment, il conviendra de le désactiver une fois la date dépassée (en enlevant toute mention du script dans le fichier).
 
 # Comment contribuer ?
