@@ -22,6 +22,10 @@ function generationsdiv(){
   $("#generationstext").load("programmes/generations.html");
 };
 
+function edediv(){
+  $("#edetext").load("programmes/ede.html");
+};
+
 function lremdiv(){
   $("#lremtext").load("programmes/lrem.html");
 };
@@ -45,6 +49,8 @@ function uprdiv(){
 function rndiv(){
   $("#rntext").load("programmes/rn.html");
 };
+
+$("#howtovote").load("programmes/commentvoter.html");
 
 
 function loclose(){
