@@ -77,6 +77,10 @@ function generationsclose(){
   $("#generationstext").empty();
 };
 
+function edeclose(){
+  $("#edetext").empty();
+};
+
 function lremclose(){
   $("#lremtext").empty();
 };
