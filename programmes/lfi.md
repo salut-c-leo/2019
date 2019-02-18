@@ -7,6 +7,8 @@ Le programme est très fourni, seules les mesures les plus intéressantes sont a
 ### Introduction
 Pour mettre en œuvre leur programme, La France Insoumise (LFI) estime nécessaire la sortie des traités européens, qui mettent en danger notre avenir au niveau politique et écologique. Pour cela, LFI propose deux plans. Le plan A consiste en une renégociation collective des traités pour aboutir à quelque chose de plus juste socialement et économiquement. Si les négociations échouent, alors le plan B est enclenché : la France quitte l'Union Européenne et forme des alliances avec les pays qui partagent le projet de LFI (une sorte de mini-Union).
 
+<hr>
+
 ### Politique européenne
 
 En accord avec la volonté de sortie des traités européens actuels, la France s'exonèrera des règles du pacte de stabilité et du traité budgétaire. Le contrôle des budgets nationaux sera refusé tant que les nouveaux traités européens ne seront pas entrés en vigueur.
@@ -28,6 +30,8 @@ Instaurer le référendum révocatoire pour les député·e·s et responsables p
 Abroger la directive sur le secret des affaires, protégeant les intérêts des entreprises tout en mettant en danger les lanceurs d'alerte. À la place, instaurer une directive protégeant le droit à l'information et renforçant la protection des lanceurs d'alerte.
 
 Dans la lutte contre les lobbys dans les institutions européennes, LFI propose : **1)** la création d'un registre des lobbys et lobbyistes, la publication de tous les rendez-vous des député·e·s avec des lobbyistes; **2)** l'interdiction de faire des cadeaux aux parlementaires; **3)** si une entreprise a été condamnée pour corruption/trafic d'influence/fraude fiscale, son activité de lobbying est interdite; **4** interdire à tout fonctionnaire/dirigeant·e européen·ne de travailler dans une banque/multinationale pendant 10 ans après la fin de son mandat.
+
+<hr>
 
 ### Écologie
 
@@ -56,6 +60,8 @@ Interdire la publicité lumineuse (notamment les écrans dans les stations de m�
 Mise en place d'un plan de sortie des pesticides, interdiction du glyphosate et interdiction de la culture et l'importation d'OGM.
 
 Élaborer un plan de recours obligatoire au transport ferroviaire de fret.
+
+<hr>
 
 ### Économie
 
@@ -93,6 +99,8 @@ Contrôler les mouvements de capitaux afin de lutter contre l'évasion fiscale. 
 
 Mise en place de l'impôt universel : chaque ressortisant·e de l'UE paie des impôts dans son pays d'accueil, mais si les impôts sont plus bas que dans son pays d'origine, le/la ressortissant·e s'acquitte de la différence auprès du Trésor Public du pays d'origine.
 
+<hr>
+
 ### Diplomatie et Sécurité
 
 Refuser tout nouvel accord de libre-échange européen et bloquer la ratification du CETA.
@@ -121,6 +129,8 @@ Lutter contre le financement des réseaux terroristes, les mafias et la criminal
 
 Garantir le respect des libertés fondamentales et l'intervention préalable du juge dans toute mesure de restriction de liberté.
 
+<hr>
+
 ### Citoyenneté et Égalité
 
 Faire aboutir le projet de directive universelle contre toutes les discriminations, bloqué depuis 2004.
@@ -141,7 +151,7 @@ Fixer la majorité sexuelle à 15 ans dans toute l'UE.
 
 Protéger nos données personnelles des GAFAM, leur marchandisation et interdire leur export hors de l'UE si elles ont été collectées en son sein.
 
-Garantir la neutralité du net comme une liberté fondamentale, garantir l'égal accès à Internet, imposer le développement de logiciels libres et leur utilisation des les institutions européennes.
+Garantir la neutralité du net comme une liberté fondamentale, garantir l'égal accès à Internet, imposer le développement de logiciels libres et leur utilisation dans les institutions européennes.
 
 Protéger l'exception culturelle et l'étendre au numérique, dans le but de casser le monopole des GAFAM. Garantir le droit des artistes à vivre de leur travail. Créer des Centres de Recherche Artistiques dans les domaines des arts vivants, du cinéma, des arts plastiques.
 
