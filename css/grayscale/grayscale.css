@@ -8,6 +8,13 @@ html,
   scrollbar-color: #4a4c59 transparent;
   scrollbar-width: thin;
  }
+::-webkit-scrollbar {
+  width: 1em;
+  background-color: #17181c;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #4a4c59;
+}
 body {
   width: 100%;
   height: 100%;
@@ -45,8 +52,6 @@ p {
 }
 a {
   color: #42DCA3;
-  -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 a:hover,
@@ -92,8 +97,6 @@ a:focus {
   color: white;
 }
 .navbar-custom .nav li a {
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
@@ -121,8 +124,6 @@ a:focus {
     border-bottom: none;
     letter-spacing: 1px;
     background: #17181c73;
-    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
     transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
   }
   .navbar-custom.top-nav-collapse {
@@ -140,10 +141,7 @@ a:focus {
   color: white;
   background: url(../../img/europarl1.jpg) no-repeat top center fixed;
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
 }
 .intro .intro-body {
   display: table-cell;
@@ -177,8 +175,6 @@ a:focus {
   font-size: 40px;
   color: white;
   background: transparent;
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
 }
 .btn-circle:hover,
@@ -188,46 +184,23 @@ a:focus {
   background: rgba(255, 255, 255, 0.1);
 }
 .btn-circle i.animated {
-  -webkit-transition-property: -webkit-transform;
-  -webkit-transition-duration: 1s;
-  -moz-transition-property: -moz-transform;
-  -moz-transition-duration: 1s;
+  transition-property: transform;
+  transition-duration: 1s;
 }
 .btn-circle:hover i.animated {
-  -webkit-animation-name: pulse;
-  -moz-animation-name: pulse;
-  -webkit-animation-duration: 1.5s;
-  -moz-animation-duration: 1.5s;
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -webkit-animation-timing-function: linear;
-  -moz-animation-timing-function: linear;
+  animation-name: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
-@-webkit-keyframes pulse {
+@keyframes pulse {
   0% {
-    -webkit-transform: scale(1);
     transform: scale(1);
   }
   50% {
-    -webkit-transform: scale(1.2);
     transform: scale(1.2);
   }
   100% {
-    -webkit-transform: scale(1);
-    transform: scale(1);
-  }
-}
-@-moz-keyframes pulse {
-  0% {
-    -moz-transform: scale(1);
-    transform: scale(1);
-  }
-  50% {
-    -moz-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  100% {
-    -moz-transform: scale(1);
     transform: scale(1);
   }
 }
@@ -247,10 +220,7 @@ a:focus {
   color: white;
   background: url(../../img/foule.jpg) no-repeat bottom center fixed;
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
 }
 @media (min-width: 767px) {
   .content-section {
@@ -264,8 +234,6 @@ a:focus {
   text-transform: uppercase;
   font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   border-radius: 0;
 }
@@ -306,10 +274,7 @@ ul.banner-social-buttons {
   color: white;
   background: url(../../img/vote.jpg) no-repeat top center fixed;
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
 }
 @media (max-width: 767px) {
   #listes {
@@ -337,17 +302,12 @@ ul.banner-social-buttons {
 }
 @media (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 20px 0;
   }
   footer p {
     margin: 0;
     font-size: 18px;
   }
-}
-::-moz-selection {
-  text-shadow: none;
-  background: #fcfcfc;
-  background: rgba(255, 255, 255, 0.2);
 }
 ::selection {
   text-shadow: none;
@@ -356,10 +316,4 @@ ul.banner-social-buttons {
 }
 img::selection {
   background: transparent;
-}
-img::-moz-selection {
-  background: transparent;
-}
-body {
-  webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
