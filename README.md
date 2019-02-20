@@ -14,7 +14,6 @@ Si vous voulez rédiger une synthèse du programme d'un parti, `programmes/lfi.m
 
 * Rendre l'interface un peu plus agréable à lire sur smartphone
 * Ajouter les programmes dès qu'ils sortiront
-* Dans la partie "Infos Pratiques", ajouter des infos sur comment participer à l'élection en tant que votant·e
 
 # LICENCES
 Le contenu du dossier `programmes` est sous licence Creative Commons Attribution 4.0. Si vous réutilisez mon contenu, vous devez créditer "mrtino" et fournir un lien vers [2019](https://2019.mrtino.eu) ou ce dépôt.
