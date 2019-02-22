@@ -1,53 +1,170 @@
-function lodiv(){
-  $("#lotext").load("programmes/lo.html");
+function lodiv(element){
+  if($("#lotext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#lotext").load("programmes/lo.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#lotext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function npadiv(){
-  $("#npatext").load("programmes/npa.html");
+function npadiv(element){
+  if($("#npatext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#npatext").load("programmes/npa.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#npatext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function pcfdiv(){
-  $("#pcftext").load("programmes/pcf.html");
+function pcfdiv(element){
+  if($("#pcftext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#pcftext").load("programmes/pcf.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#pcftext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function lfidiv(){
-  $("#lfitext").load("programmes/lfi.html");
+function lfidiv(element){
+  if($("#lfitext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#lfitext").load("programmes/lfi.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#lfitext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function eelvdiv(){
-  $("#eelvtext").load("programmes/eelv.html");
+function eelvdiv(element){
+  if($("#eelvtext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#eelvtext").load("programmes/eelv.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#eelvtext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function generationsdiv(){
-  $("#generationstext").load("programmes/generations.html");
+function generationsdiv(element){
+  if($("#generationstext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#generationstext").load("programmes/generations.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#generationstext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function edediv(){
-  $("#edetext").load("programmes/ede.html");
+function edediv(element){
+  if($("#edetext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#edetext").load("programmes/ede.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#edetext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function lremdiv(){
-  $("#lremtext").load("programmes/lrem.html");
+function lremdiv(element){
+  if($("#lremtext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#lremtext").load("programmes/lrem.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#lremtext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function ricdiv(){
-  $("#rictext").load("programmes/ric.html");
+function ricdiv(element){
+  if($("#rictext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#rictext").load("programmes/ric.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#rictext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function lrdiv(){
-  $("#lrtext").load("programmes/lr.html");
+function lrdiv(element){
+  if($("#lrtext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#lrtext").load("programmes/lr.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#lrtext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function dlfdiv(){
-  $("#dlftext").load("programmes/dlf.html");
+function dlfdiv(element){
+  if($("#dlftext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#dlftext").load("programmes/dlf.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#dlftext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function uprdiv(){
-  $("#uprtext").load("programmes/upr.html");
+function uprdiv(element){
+  if($("#uprtext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#uprtext").load("programmes/upr.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#uprtext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
-function rndiv(){
-  $("#rntext").load("programmes/rn.html");
+function rndiv(element){
+  if($("#rntext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficer */
+    $("#rntext").load("programmes/rn.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#rntext").empty();
+    $(element).text('Dérouler')
+  }
 };
 
 $("#howtovote").load("programmes/commentvoter.html");
