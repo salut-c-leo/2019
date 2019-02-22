@@ -5,3 +5,4 @@
 
 ## Contributeur·ice·s
 * Mbodin, pour le programme de Europe Démocratie Espéranto
+* atchisson, pour l'amélioration du bouton "Dérouler/Fermer" des programmes (suite à une suggestion de lanodan)

@@ -1,5 +1,3 @@
-<h2><button class="btn btn-default btn-sm" onclick="lficlose()">Fermer</button></h2>
-
 ##### Tête de liste : Manon Aubry
 
 Le programme est très fourni, seules les mesures les plus intéressantes sont affichées ici. Pour voir toutes les mesures, consulte le programme [ici](https://lafranceinsoumise.fr/actualites/elections-europeennes/lavenir-en-commun-en-europe-aussi/) ou [là](pdf/ProgrammeEuropeInsoumise.pdf).

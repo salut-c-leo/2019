@@ -1,6 +1,6 @@
 function lodiv(element){
   if($("#lotext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#lotext").load("programmes/lo.html");
     $(element).text('Fermer');
   }
@@ -13,7 +13,7 @@ function lodiv(element){
 
 function npadiv(element){
   if($("#npatext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#npatext").load("programmes/npa.html");
     $(element).text('Fermer');
   }
@@ -26,7 +26,7 @@ function npadiv(element){
 
 function pcfdiv(element){
   if($("#pcftext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#pcftext").load("programmes/pcf.html");
     $(element).text('Fermer');
   }
@@ -39,7 +39,7 @@ function pcfdiv(element){
 
 function lfidiv(element){
   if($("#lfitext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#lfitext").load("programmes/lfi.html");
     $(element).text('Fermer');
   }
@@ -52,7 +52,7 @@ function lfidiv(element){
 
 function eelvdiv(element){
   if($("#eelvtext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#eelvtext").load("programmes/eelv.html");
     $(element).text('Fermer');
   }
@@ -65,7 +65,7 @@ function eelvdiv(element){
 
 function generationsdiv(element){
   if($("#generationstext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#generationstext").load("programmes/generations.html");
     $(element).text('Fermer');
   }
@@ -78,7 +78,7 @@ function generationsdiv(element){
 
 function edediv(element){
   if($("#edetext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#edetext").load("programmes/ede.html");
     $(element).text('Fermer');
   }
@@ -91,7 +91,7 @@ function edediv(element){
 
 function lremdiv(element){
   if($("#lremtext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#lremtext").load("programmes/lrem.html");
     $(element).text('Fermer');
   }
@@ -104,7 +104,7 @@ function lremdiv(element){
 
 function ricdiv(element){
   if($("#rictext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#rictext").load("programmes/ric.html");
     $(element).text('Fermer');
   }
@@ -117,7 +117,7 @@ function ricdiv(element){
 
 function lrdiv(element){
   if($("#lrtext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#lrtext").load("programmes/lr.html");
     $(element).text('Fermer');
   }
@@ -130,7 +130,7 @@ function lrdiv(element){
 
 function dlfdiv(element){
   if($("#dlftext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#dlftext").load("programmes/dlf.html");
     $(element).text('Fermer');
   }
@@ -143,7 +143,7 @@ function dlfdiv(element){
 
 function uprdiv(element){
   if($("#uprtext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#uprtext").load("programmes/upr.html");
     $(element).text('Fermer');
   }
@@ -156,7 +156,7 @@ function uprdiv(element){
 
 function rndiv(element){
   if($("#rntext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficer */
+    /* si le programme n'est pas encore chargé, l'afficher */
     $("#rntext").load("programmes/rn.html");
     $(element).text('Fermer');
   }

@@ -1,5 +1,3 @@
-<h2><button class="btn btn-default btn-sm" onclick="dlfclose()">Fermer</button></h2>
-
 ##### Tête de liste : Nicolas Dupont-Aignan
 
 Le  Manifeste des Amoureux de la France est sorti le 23 septembre 2018 et donne les grandes lignes du programme. Il est disponible [ici](pdf/Manifeste-Européennes-Version-23-septembre-Presse.pdf) ou [là](https://amoureuxdelafrance2019.fr/lire-le-manifeste/).
