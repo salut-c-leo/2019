@@ -115,6 +115,19 @@ function ricdiv(element){
   }
 };
 
+function animalistediv(element){
+  if($("#animalistetext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#animalistetext").load("programmes/anim.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#animalistetext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
 function lrdiv(element){
   if($("#lrtext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -204,6 +217,10 @@ function lremclose(){
 
 function ricclose(){
   $("#rictext").empty();
+};
+
+function animalisteclose(){
+  $("#animalistetext").empty();
 };
 
 function lrclose(){
