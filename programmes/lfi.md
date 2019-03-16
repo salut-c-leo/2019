@@ -29,7 +29,7 @@ Instaurer le référendum révocatoire pour les député·e·s et responsables p
 
 Abroger la directive sur le secret des affaires, protégeant les intérêts des entreprises tout en mettant en danger les lanceurs d'alerte. À la place, instaurer une directive protégeant le droit à l'information et renforçant la protection des lanceurs d'alerte.
 
-Dans la lutte contre les lobbys dans les institutions européennes, LFI propose : **1)** la création d'un registre des lobbys et lobbyistes, la publication de tous les rendez-vous des député·e·s avec des lobbyistes; **2)** l'interdiction de faire des cadeaux aux parlementaires; **3)** si une entreprise a été condamnée pour corruption/trafic d'influence/fraude fiscale, son activité de lobbying est interdite; **4** interdire à tout fonctionnaire/dirigeant·e européen·ne de travailler dans une banque/multinationale pendant 10 ans après la fin de son mandat.
+Dans la lutte contre les lobbys dans les institutions européennes, LFI propose : **1)** la création d'un registre des lobbys et lobbyistes, la publication de tous les rendez-vous des député·e·s avec des lobbyistes; **2)** l'interdiction de faire des cadeaux aux parlementaires; **3)** si une entreprise a été condamnée pour corruption/trafic d'influence/fraude fiscale, son activité de lobbying est interdite; **4)** interdire à tout fonctionnaire/dirigeant·e européen·ne de travailler dans une banque/multinationale pendant 10 ans après la fin de son mandat.
 
 <hr>
 

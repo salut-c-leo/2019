@@ -1,6 +1,6 @@
 #### Il existe actuellement 4 listes composées de Gilets Jaunes, aucune n'a pour l'instant de programme.
 
-##### Tête de liste de "Ralliement d'Initiative Citoyenne" : Côme Dunis (Ingrid Levavasseur a quitté la liste)
+##### Tête de liste de "Ralliement d'Initiative Citoyenne" : Côme Dunis
 
 ##### Tête de liste de "Union Jaune" : Patrick Cribouw
 

@@ -76,6 +76,19 @@ function generationsdiv(element){
   }
 };
 
+function psdiv(element){
+  if($("#pstext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#pstext").load("programmes/ps.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#pstext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
 function edediv(element){
   if($("#edetext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -205,6 +218,10 @@ function eelvclose(){
 
 function generationsclose(){
   $("#generationstext").empty();
+};
+
+function psclose(){
+  $("#pstext").empty();
 };
 
 function edeclose(){
