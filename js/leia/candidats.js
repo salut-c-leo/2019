@@ -102,19 +102,6 @@ function edediv(element){
   }
 };
 
-function lremdiv(element){
-  if($("#lremtext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficher */
-    $("#lremtext").load("programmes/lrem.html");
-    $(element).text('Fermer');
-  }
-  else {
-    /* sinon, le masquer */
-    $("#lremtext").empty();
-    $(element).text('Dérouler')
-  }
-};
-
 function ricdiv(element){
   if($("#rictext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -137,6 +124,32 @@ function animalistediv(element){
   else {
     /* sinon, le masquer */
     $("#animalistetext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
+function lremdiv(element){
+  if($("#lremtext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#lremtext").load("programmes/lrem.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#lremtext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
+function udidiv(element){
+  if($("#uditext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#uditext").load("programmes/udi.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#uditext").empty();
     $(element).text('Dérouler')
   }
 };
