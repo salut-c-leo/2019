@@ -19,4 +19,4 @@ Du 13 au 24 mai 2019. Le temps d'antenne est par défaut de deux minutes pour to
 
 ### Après avoir voté, qu'est-ce qu'il va se passer ?
 
-Les listes ayant obtenu au moins 5% des suffrages bénéficient d’un nombre de sièges proportionnel à leur nombre de voix. C'est des maths, et moi j'y comprends rien aux maths, donc on verra bien ce que ça donne quand on aura les résulats.
+Les listes ayant obtenu au moins 5% des suffrages bénéficient d’un nombre de sièges proportionnel à leur nombre de voix. C'est des maths, et moi j'y comprends rien aux maths, donc on verra bien ce que ça donne quand on aura les résultats.
