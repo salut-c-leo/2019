@@ -1,6 +1,6 @@
 ##### Tête de liste : Raphaël Glucksmann
 
-La liste complète n'est pas encore connue. Il s'agit d'une alliance entre le Parti Socialiste et Place Publique, mouvement fondé par Raphaël Glucksmann (dans le but de réunir tous les partis de gauche sous une seule liste, pari plutôt raté). Le programme de cette alliance n'est pour l'instant pas connu, mais [voici celui](pdf/programme_place_publique.pdf) porté par Place Publique, qui sera donc proche du programme porté par cette alliance.
+La liste complète n'est pas encore connue. Il s'agit d'une alliance entre le Parti Socialiste, Nouvelle Donne et Place Publique, mouvement fondé par Raphaël Glucksmann (dans le but de réunir tous les partis de gauche sous une seule liste, pari plutôt raté). Le programme de cette alliance n'est pour l'instant pas connu, mais [voici celui](pdf/programme_place_publique.pdf) porté par Place Publique, qui sera donc proche du programme porté par cette alliance.
 
 <hr>
 
