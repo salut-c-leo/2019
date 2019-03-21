@@ -208,63 +208,74 @@ function rndiv(element){
 
 $("#howtovote").load("programmes/commentvoter.html");
 
+function genericclose(id) {
+    // on trouve le premier bouton, dans le titre de la liste
+    // et alors on change son texte de "Fermer" vers "Dérouler"
+    var first_button = $(id).parent().children(".alignitformeplease").children();
+    first_button.text('Dérouler');
+    $(id).empty();
+};
 
 function loclose(){
-  $("#lotext").empty();
+  genericclose("#lotext");
 };
 
 function npaclose(){
-  $("#npatext").empty();
+  genericclose("#npatext");
 };
 
 function pcfclose(){
-  $("#pcftext").empty();
+  genericclose("#pcftext");
 };
 
 function lficlose(){
-  $("#lfitext").empty();
+  genericclose("#lfitext");
 }
 
 function eelvclose(){
-  $("#eelvtext").empty();
+    genericclose("#eelvtext");
 };
 
 function generationsclose(){
-  $("#generationstext").empty();
+  genericclose("#generationstext");
 };
 
 function psclose(){
-  $("#pstext").empty();
+  genericclose("#pstext");
 };
 
 function edeclose(){
-  $("#edetext").empty();
+  genericclose("#edetext");
 };
 
 function lremclose(){
-  $("#lremtext").empty();
+  genericclose("#lremtext");
+};
+
+function udiclose(){
+  genericclose("#uditext");
 };
 
 function ricclose(){
-  $("#rictext").empty();
+  genericclose("#rictext");
 };
 
 function animalisteclose(){
-  $("#animalistetext").empty();
+  genericclose("#animalistetext");
 };
 
 function lrclose(){
-  $("#lrtext").empty();
+  genericclose("#lrtext");
 };
 
 function dlfclose(){
-  $("#dlftext").empty();
+  genericclose("#dlftext");
 };
 
 function uprclose(){
-  $("#uprtext").empty();
+  genericclose("#uprtext");
 };
 
 function rnclose(){
-  $("#rntext").empty();
+  genericclose("#rntext");
 };
