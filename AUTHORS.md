@@ -7,3 +7,4 @@
 * Mbodin, pour le programme de Europe Démocratie Espéranto
 * atchisson, pour l'amélioration du bouton "Dérouler/Fermer" des programmes (suite à une suggestion de lanodan)
 * ffffluffy, pour l'amélioration supplémentaire du bouton "Dérouler/Fermer" des programmes et correction orthographique
+* bnjbrv, pour une correction orthographique
