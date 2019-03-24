@@ -1,13 +1,21 @@
 ### Comment voter le 26 mai ?
 
-Pour voter, il faut avoir 18 ans, avoir la nationalité française (ou être citoyen·ne européen·ne vivant en France) et être inscrit·e sur les listes électorales. Tu dois venir au bureau de vote avec ta carte électorale et une pièce d'identité (carte d'identité ou passeport).
+Pour voter, il faut avoir plus de 18 ans, avoir la nationalité française (ou être citoyen·ne européen·ne vivant en France), être inscrit·e sur les listes électorales et ne pas être interdit de voter. Tu dois venir au bureau de vote avec ta carte électorale et une pièce d'identité (carte d'identité ou passeport).
 
-**Attention cependant !** Tu es automatiquement inscrit·e sur les listes électorales à tes 18 ans, mais si tu as entre temps déménagé, il faudra éventuellement t'inscrire sur les listes de ta nouvelle commune. Si tu veux faire cette démarche, ça se passe [ici](https://www.service-public.fr/particuliers/vosdroits/F1372) avant le 31 mars 2019.
-Exemple : j'ai fait mon recensement à Nice le jour de mes 16 ans, je suis donc sur les listes électorales de Nice à 18 ans. À 21 ans, j'ai déménagé à Rennes. Si j'ai la flemme de rentrer à Nice pour voter, je vais sur [cette page](https://www.service-public.fr/particuliers/vosdroits/F1372) m'inscrire sur les listes électorales de Rennes.
+Tu es automatiquement inscrit·e sur les listes électorales à 18 ans, si tu as fait le recensement et la Journée Défense et Citoyenneté (JDC).
 
 ### Est-ce que je peux vérifier si je suis inscrit·e sur les listes électorales ?
 
 Oui ! Il faudra se rendre sur [cette page](https://www.demarches.interieur.gouv.fr/particuliers/liste-electorale-bureau-vote-comment-verifier-situation) du site du Ministère de l'Intérieur.
+
+### J'ai vérifié, et je ne suis pas inscrit·e. Qu'est-ce que je fais ?
+
+Si tu n'es pas inscrit sur les listes électorales, tu peux t'inscrire [ici](https://www.demarches.interieur.gouv.fr/particuliers/demande-inscription-listes-electorales-1) jusqu'au 31 mars 2019.
+
+### Je suis inscrit·e sur les listes, mais j'ai déménagé, qu'est-ce que je fais ?
+
+Si tu as entre temps déménagé, il faudra éventuellement t'inscrire sur les listes de ta nouvelle commune. Si tu veux faire cette démarche, ça se passe [ici](https://www.service-public.fr/particuliers/vosdroits/F1372) avant le 31 mars 2019.  
+Exemple : j'ai fait mon recensement à Nice le jour de mes 16 ans, je suis donc sur les listes électorales de Nice à 18 ans. À 21 ans, j'ai déménagé à Rennes. Si j'ai la flemme de rentrer à Nice pour voter, je vais sur [cette page](https://www.service-public.fr/particuliers/vosdroits/F1372) m'inscrire sur les listes électorales de Rennes.
 
 ### Où dois-je aller voter ?
 
