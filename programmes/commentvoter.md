@@ -5,6 +5,10 @@ Pour voter, il faut avoir 18 ans, avoir la nationalité française (ou être cit
 **Attention cependant !** Tu es automatiquement inscrit·e sur les listes électorales à tes 18 ans, mais si tu as entre temps déménagé, il faudra éventuellement t'inscrire sur les listes de ta nouvelle commune. Si tu veux faire cette démarche, ça se passe [ici](https://www.service-public.fr/particuliers/vosdroits/F1372) avant le 31 mars 2019.
 Exemple : j'ai fait mon recensement à Nice le jour de mes 16 ans, je suis donc sur les listes électorales de Nice à 18 ans. À 21 ans, j'ai déménagé à Rennes. Si j'ai la flemme de rentrer à Nice pour voter, je vais sur [cette page](https://www.service-public.fr/particuliers/vosdroits/F1372) m'inscrire sur les listes électorales de Rennes.
 
+### Est-ce que je peux vérifier si je suis inscrit·e sur les listes électorales ?
+
+Oui ! Il faudra se rendre sur [cette page](https://www.demarches.interieur.gouv.fr/particuliers/liste-electorale-bureau-vote-comment-verifier-situation) du site du Ministère de l'Intérieur.
+
 ### Où dois-je aller voter ?
 
 C'est marqué à l'intérieur de ta carte électorale.
