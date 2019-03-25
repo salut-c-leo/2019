@@ -1,4 +1,4 @@
-#### Il existe actuellement 4 listes composées de Gilets Jaunes, aucune n'a pour l'instant de programme.
+#### Il existe actuellement 5 listes composées de Gilets Jaunes, aucune n'a pour l'instant de programme.
 
 ##### Tête de liste de "Ralliement d'Initiative Citoyenne" : Côme Dunis
 
@@ -7,6 +7,8 @@
 ##### Tête de liste de "Rassemblement des Gilets Jaunes Citoyens" : Thierry-Paul Valette
 
 ##### Tête de liste de "Émergence citoyenne" : Christophe Chalençon
+
+##### Tête de liste de "Jaunes et citoyens" : Jean-François Barnaba
 
 <hr>
 <h2><button class="btn btn-default btn-sm" onclick="ricclose()">Fermer</button></h2>
