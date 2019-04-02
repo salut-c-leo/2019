@@ -1,6 +1,6 @@
 ##### Tête de liste : Nathalie Loiseau
 
-Le programme et la liste des candidats LREM ne sont pas encore dévoilés. L'on sait juste que des membres d'*Agir*, le parti de Franck Riester (ministre de la Culture), seront sur la liste.  
+Le programme n'est pas encore dévoilé. 30 candidats sur 79 ont été [annoncés](https://eu-renaissance.org/fr/candidates).  
 [Un site de campagne](https://eu-renaissance.org/fr) a été lancé le 7 mars 2019.
 
 <hr>

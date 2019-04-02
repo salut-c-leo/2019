@@ -11,19 +11,6 @@ function lodiv(element){
   }
 };
 
-function npadiv(element){
-  if($("#npatext").text().length == 0) {
-    /* si le programme n'est pas encore chargé, l'afficher */
-    $("#npatext").load("programmes/npa.html");
-    $(element).text('Fermer');
-  }
-  else {
-    /* sinon, le masquer */
-    $("#npatext").empty();
-    $(element).text('Dérouler')
-  }
-};
-
 function pcfdiv(element){
   if($("#pcftext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -218,10 +205,6 @@ function genericclose(id) {
 
 function loclose(){
   genericclose("#lotext");
-};
-
-function npaclose(){
-  genericclose("#npatext");
 };
 
 function pcfclose(){
