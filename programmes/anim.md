@@ -1,4 +1,6 @@
-67 candidats sur 79 ont [été présentés](https://parti-animaliste.fr/candidats/), mais il n'y pas de tête de liste désignée pour l'instant.
+##### Tête de liste : Hélène Thouy
+
+La liste des candidat·e·s est disponible [ici](https://parti-animaliste.fr/candidats/).
 
 Le programme du Parti Animaliste est disponible [ici](https://parti-animaliste.fr/programme/).
 

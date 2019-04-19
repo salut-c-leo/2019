@@ -1,7 +1,7 @@
 ##### Tête de liste : Nicolas Dupont-Aignan
 
-Le  Manifeste des Amoureux de la France est sorti le 23 septembre 2018 et donne les grandes lignes du programme. Il est disponible [ici](pdf/Manifeste-Européennes-Version-23-septembre-Presse.pdf) ou [là](https://amoureuxdelafrance2019.fr/lire-le-manifeste/).
-23 candidats sur 79 ont été [annoncés](https://www.bfmtv.com/politique/europeennes-dupont-aignan-presente-sa-liste-le-gilet-jaune-benjamin-cauchy-en-9e-position-1661204.html).
+Le  Manifeste des Amoureux de la France est sorti le 23 septembre 2018 et donne les grandes lignes du programme. Il est disponible [ici](pdf/Manifeste-Européennes-Version-23-septembre-Presse.pdf) ou [là](https://www.amoureuxdelafrance2019.fr/actualites/manifeste-pour-une-revolution-du-bon-sens-en-europe-10.html).
+23 candidats sur 79 ont été [annoncés](https://www.amoureuxdelafrance2019.fr/soutien).
 
 <hr>
 

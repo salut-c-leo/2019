@@ -1,6 +1,6 @@
 ##### Tête de liste : François-Xavier Bellamy
 
-25 noms sur 79 [sont connus](https://www.republicains.fr/sites/default/files/inline-images/TROMBI18.png). Le programme est disponible [ici](pdf/programme_lr.pdf).
+La liste des candidats est [disponible](https://www.republicains.fr/elections_europeennes_2019/liste). Le programme est disponible [ici](pdf/programme_lr.pdf).
 
 ### Introduction
 
