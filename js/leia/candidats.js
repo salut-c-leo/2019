@@ -76,6 +76,19 @@ function psdiv(element){
   }
 };
 
+function enfantsdiv(element){
+  if($("#enfantstext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#enfantstext").load("programmes/enfants.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#enfantstext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
 function edediv(element){
   if($("#edetext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -180,6 +193,19 @@ function uprdiv(element){
   }
 };
 
+function patriotesdiv(element){
+  if($("#patriotestext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#patriotestext").load("programmes/patriotes.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#patriotestext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
 function rndiv(element){
   if($("#rntext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -227,6 +253,10 @@ function psclose(){
   genericclose("#pstext");
 };
 
+function enfantsclose(){
+  genericclose("#enfantstext");
+};
+
 function edeclose(){
   genericclose("#edetext");
 };
@@ -257,6 +287,10 @@ function dlfclose(){
 
 function uprclose(){
   genericclose("#uprtext");
+};
+
+function patriotesclose(){
+  genericclose("#patriotestext");
 };
 
 function rnclose(){

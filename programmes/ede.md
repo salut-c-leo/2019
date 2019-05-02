@@ -1,6 +1,6 @@
 ##### Tête de liste : Pierre Dieumegard
 
-La liste complète n'a pas encore été dévoilée.
+La liste est disponible [ici](http://e-d-e.fr/Notre-liste-est-deposee).
 Le programme est disponible [ici](http://e-d-e.fr/Notre-programme).
 
 Leur point de programme principal est l'utilisation de l'espéranto comme langue commune pour l'Europe autant que possible.

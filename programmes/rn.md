@@ -1,6 +1,8 @@
 ##### Tête de liste : Jordan Bardella
 
-Le programme et la liste complète du Rassemblement National ne sont pas encore connus.
+La liste des candidats est [disponible](https://rn-europeennes.fr/nos-candidats/).
+
+Le programme est disponible [ici](pdf/programme_rn.pdf) ou [ici](https://rn-europeennes.fr/projet/) et sera rapidement détaillé sur ce site.
 
 <hr>
 <h2><button class="btn btn-default btn-sm" onclick="rnclose()">Fermer</button></h2>
