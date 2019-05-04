@@ -114,47 +114,81 @@
                 <div class="container">
                     <div class="col-lg-8 col-lg-offset-2">
                         <br>
-                        <h2>Choisis la liste dont tu veux en savoir plus :</h2>
+                        <h2>Choisis parmi les 33 listes celle dont tu veux en savoir plus :</h2>
                         <br>
                         <small>
-                            <h6>Les listes officiellement présentes aux élections seront connues le 3 ou 4 mai 2019.
+                            <h6>Le nom des listes est celui déposé au Ministère de l'Intérieur, avec entre parenthèses
+                                le nom du parti pour s'y retrouver.
                             </h6>
                         </small>
                     </div>
-                    <div class="col-lg-8" style="width: 100%;">
+                    <div class="col-lg-12" style="width: 100%;">
                         <ul>
                             <li>
-                                <h3 class="alignitformeplease">Lutte Ouvrière <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">Lutte Ouvrière - Contre le grand capital, le camp des
+                                    travailleurs <button class="btn btn-default btn-sm"
                                         onclick="lodiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="lotext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Parti Communiste Français <button
-                                        class="btn btn-default btn-sm" onclick="pcfdiv(this)">Dérouler</button></h3>
-                                <div class="alignitformeplease" id="pcftext"></div>
+                                <h3 class="alignitformeplease">Parti Révolutionnaire Communistes <button
+                                        class="btn btn-default btn-sm" onclick="revcodiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="revcotext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">L'Europe Insoumise <button class="btn btn-default btn-sm"
-                                        onclick="lfidiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">(Parti Communiste Français) Pour l'Europe des gens contre
+                                    l'Europe de l'argent <button class="btn btn-default btn-sm"
+                                        onclick="pcfdiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="pcftext"></div>
+                            </li>
+
+                            <li>
+                                <h3 class="alignitformeplease">La France Insoumise <button
+                                        class="btn btn-default btn-sm" onclick="lfidiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="lfitext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Europe Écologie Les Verts <button
-                                        class="btn btn-default btn-sm" onclick="eelvdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">(Parti pour la décroissance) Décroissance 2019 <button
+                                        class="btn btn-default btn-sm" onclick="decdiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="dectext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">Europe Écologie <button class="btn btn-default btn-sm"
+                                        onclick="eelvdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="eelvtext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Génération·s <button class="btn btn-default btn-sm"
+                                <h3 class="alignitformeplease">(Génération·s) Liste citoyenne du Printemps Européen avec
+                                    Benoît Hamon
+                                    soutenue par Génération·s et DéME-DiEM25 <button class="btn btn-default btn-sm"
                                         onclick="generationsdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="generationstext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Place Publique <button class="btn btn-default btn-sm"
-                                        onclick="psdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">Urgence Écologie <button class="btn btn-default btn-sm"
+                                        onclick="urgencediv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="urgencetext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Place Publique) Envie d'Europe écologique et sociale
+                                    <button class="btn btn-default btn-sm" onclick="psdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="pstext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Allons Enfants <button class="btn btn-default btn-sm" onclick="enfantsdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">Parti Fédéraliste Européen - Pour une Europe qui protège
+                                    ses citoyens
+                                    <button class="btn btn-default btn-sm" onclick="pfediv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="pfetext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">Démocratie Représentative
+                                    <button class="btn btn-default btn-sm" onclick="reprediv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="repretext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">Allons Enfants <button class="btn btn-default btn-sm"
+                                        onclick="enfantsdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="enfantstext"></div>
                             </li>
                             <li>
@@ -163,9 +197,35 @@
                                 <div class="alignitformeplease" id="edetext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Gilets Jaunes <button class="btn btn-default btn-sm"
-                                        onclick="ricdiv(this)">Dérouler</button></h3>
-                                <div class="alignitformeplease" id="rictext"></div>
+                                <h3 class="alignitformeplease">Parti Pirate <button class="btn btn-default btn-sm"
+                                        onclick="piratesdiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="piratestext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">À voix égales <button class="btn btn-default btn-sm"
+                                        onclick="voixdiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="voixtext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">PACE - Parti des Citoyens Européens <button
+                                        class="btn btn-default btn-sm" onclick="pacediv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="pacetext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">Mouvement pour l'Initiative Citoyenne <button
+                                        class="btn btn-default btn-sm" onclick="micdiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="mictext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Gilets Jaunes) Évolution Citoyenne <button
+                                        class="btn btn-default btn-sm" onclick="evodiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="evotext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Gilets Jaunes) Alliance Jaune, la révolte par le vote
+                                    <button class="btn btn-default btn-sm" onclick="jaunediv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="jaunetext"></div>
                             </li>
                             <li>
                                 <h3 class="alignitformeplease">Parti Animaliste <button class="btn btn-default btn-sm"
@@ -173,40 +233,83 @@
                                 <div class="alignitformeplease" id="animalistetext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">La République En Marche ! <button
-                                        class="btn btn-default btn-sm" onclick="lremdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">Neutre et actif <button class="btn btn-default btn-sm"
+                                        onclick="neutrediv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="neutretext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">Renaissance soutenue par La République En Marche, le
+                                    MoDem et ses partenaires <button class="btn btn-default btn-sm"
+                                        onclick="lremdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="lremtext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Les Européens (Union des Démocrates et Indépendants)
+                                <h3 class="alignitformeplease">(Union des Démocrates et Indépendants) Les Européens
                                     <button class="btn btn-default btn-sm" onclick="udidiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="uditext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Les Républicains <button class="btn btn-default btn-sm"
-                                        onclick="lrdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">(Les Républicains) Union de la droite et du centre
+                                    <button class="btn btn-default btn-sm" onclick="lrdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="lrtext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Les Amoureux de la France <button
-                                        class="btn btn-default btn-sm" onclick="dlfdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">Les oubliés de l’Europe – artisans, commerçants,
+                                    professions libérales et indépendants
+                                    <button class="btn btn-default btn-sm" onclick="acpidiv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="acpitext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Les Amoureux de la France) Le courage de défendre les
+                                    Français avec Nicolas
+                                    Dupont-Aignan
+                                    <button class="btn btn-default btn-sm" onclick="dlfdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="dlftext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Union Populaire Républicaine <button
-                                        class="btn btn-default btn-sm" onclick="uprdiv(this)">Dérouler</button></button>
+                                <h3 class="alignitformeplease">Union démocratique pour la liberté, égalité, fraternité
+                                    <button class="btn btn-default btn-sm" onclick="triodiv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="triotext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Union Populaire Républicaine) Ensemble pour le Frexit
+                                    <button class="btn btn-default btn-sm"
+                                        onclick="uprdiv(this)">Dérouler</button></button>
                                 </h3>
                                 <div class="alignitformeplease" id="uprtext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Les Patriotes <button class="btn btn-default btn-sm"
-                                        onclick="patriotesdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">(Les Patriotes) Ensemble patriotes et gilets jaunes :
+                                    pour la France,
+                                    sortons de l'Union Européenne ! <button class="btn btn-default btn-sm"
+                                        onclick="patriotesdiv(this)">Dérouler</button>
+                                </h3>
                                 <div class="alignitformeplease" id="patriotestext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Rassemblement National <button
-                                        class="btn btn-default btn-sm" onclick="rndiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">(Rassemblement National) Prenez le pouvoir, liste
+                                    soutenue par Marine Le Pen
+                                    <button class="btn btn-default btn-sm" onclick="rndiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="rntext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(SIEL et le Parti de l'in-nocence) La ligne claire
+                                    <button class="btn btn-default btn-sm" onclick="cnrediv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="cnretext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Dissidence Française) Liste de la reconquête <button
+                                        class="btn btn-default btn-sm" onclick="recodiv(this)">Dérouler</button></h3>
+                                <div class="alignitformeplease" id="recotext"></div>
+                            </li>
+                            <li>
+                                <h3 class="alignitformeplease">(Alliance Royale) Une France royale au cœur de l'Europe
+                                    <button class="btn btn-default btn-sm" onclick="royalediv(this)">Dérouler</button>
+                                </h3>
+                                <div class="alignitformeplease" id="royaletext"></div>
                             </li>
                         </ul>
                     </div>
@@ -231,7 +334,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Dernière mise à jour du site : 2 mai 2019.<br>Le contenu de ce site est sous licence Creative
+            <p>Dernière mise à jour du site : 4 mai 2019.<br>Le contenu de ce site est sous licence Creative
                 Commons Attribution 4.0, il a été rédigé par <a href="https://mrtino.eu">Leia</a> et <a
                     href="https://github.com/mrtino/2019/blob/master/AUTHORS.md">d'autres</a>.<br>
                 Tu peux contribuer à l'amélioration du site en allant sur sa page <a
