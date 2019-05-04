@@ -1,5 +1,5 @@
 # [2019](https://2019.mrtino.eu)
-Site listant les programmes des principaux partis aux élections européennes de 2019.
+Site listant les programmes des 33 listes candidates aux élections européennes de 2019.
 
 # Fonctionnement du site
 Le programme de chaque parti est écrit dans un fichier spécifique, dans le dossier `programmes`. Il est rédigé en Markdown pour faciliter la rédaction. Pour la conversion en HTML, `pandoc` est utilisé et appelé via le script `convert.sh` présent dans le dossier.
@@ -13,7 +13,6 @@ Si vous voulez rédiger une synthèse du programme d'un parti, `programmes/lfi.m
 # À faire
 
 * Rendre l'interface un peu plus agréable à lire sur smartphone
-* Ajouter les programmes dès qu'ils sortiront
 
 # LICENCES
 Le contenu du dossier `programmes` est sous licence Creative Commons Attribution 4.0. Si vous réutilisez mon contenu, vous devez créditer "mrtino" et fournir un lien vers [2019](https://2019.mrtino.eu) ou ce dépôt.
