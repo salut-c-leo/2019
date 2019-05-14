@@ -1,6 +1,6 @@
 ##### Tête de liste : François-Xavier Bellamy
 
-La liste des candidats est [disponible](https://www.republicains.fr/elections_europeennes_2019/liste). Le programme est disponible [ici](pdf/programme_lr.pdf).
+La liste des candidats est [disponible](https://www.republicains.fr/elections_europeennes_2019/liste). Le programme est disponible [ici](pdf/programme_lr.pdf). La profession de foi est disponible [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/29).
 
 ### Introduction
 

@@ -195,6 +195,19 @@ function voixdiv(element){
   }
 };
 
+function udmfdiv(element){
+  if($("#udmftext").text().length == 0) {
+    /* si le programme n'est pas encore chargé, l'afficher */
+    $("#udmftext").load("programmes/udmf.html");
+    $(element).text('Fermer');
+  }
+  else {
+    /* sinon, le masquer */
+    $("#udmftext").empty();
+    $(element).text('Dérouler')
+  }
+};
+
 function pacediv(element){
   if($("#pacetext").text().length == 0) {
     /* si le programme n'est pas encore chargé, l'afficher */
@@ -495,6 +508,10 @@ function piratesclose(){
 
 function voixclose(){
   genericclose("#voixtext");
+};
+
+function udmfclose(){
+  genericclose("#udmftext");
 };
 
 function paceclose(){

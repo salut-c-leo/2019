@@ -1,6 +1,6 @@
 ##### Tête de liste : Raphaël Glucksmann
 
-La liste des candidat·e·s est disponible dans [l'arrêté du 3 mai](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=87DAD75FDA48AA144528CD4ED0B9A9D2.tplgfr38s_1?cidTexte=JORFTEXT000038438196&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000038437728). Il s'agit d'une alliance entre le Parti Socialiste, Nouvelle Donne et Place Publique, mouvement fondé par Raphaël Glucksmann (dans le but de réunir tous les partis de gauche sous une seule liste, pari plutôt raté). Le programme de cette alliance n'est pour l'instant pas connu, mais [voici celui](pdf/programme_place_publique.pdf) porté par Place Publique, qui sera donc proche du programme porté par cette alliance.
+La liste et la profession de foi sont disponibles [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/12). Il s'agit d'une alliance entre le Parti Socialiste, Nouvelle Donne et Place Publique, mouvement fondé par Raphaël Glucksmann (dans le but de réunir tous les partis de gauche sous une seule liste, pari plutôt raté). La synthèse du programme présenté ici est basé sur [ce document](pdf/programme_place_publique.pdf) porté par Place Publique, qui sera donc proche du programme porté par cette alliance.
 
 <hr>
 

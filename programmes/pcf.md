@@ -1,6 +1,6 @@
 ##### Tête de liste : Ian Brossat
 
-La liste complète est disponible [ici](https://www.europedesgens.fr/vos_candidats). Le programme est disponible [ici](https://www.europedesgens.fr/notre_programme).
+La liste complète est disponible [ici](https://www.europedesgens.fr/vos_candidats). Le programme est disponible [ici](https://www.europedesgens.fr/notre_programme). La profession de foi est disponible [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/19).
 
 ### Introduction
 

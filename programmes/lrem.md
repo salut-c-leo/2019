@@ -1,6 +1,6 @@
 ##### Tête de liste : Nathalie Loiseau
 
-Le programme sera dévoilé le 9 mai et sera disponible ultérieurement sur ce site. La liste des candidat·e·s est [disponible](https://eu-renaissance.org/fr/candidates).
+La liste et la profession de foi sont disponibles [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/5). Le programme est disponible [ici](https://eu-renaissance.org/fr/notre-projet).
 
 <hr>
 <h2><button class="btn btn-default btn-sm" onclick="lremclose()">Fermer</button></h2>

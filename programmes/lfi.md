@@ -1,5 +1,6 @@
 ##### Tête de liste : Manon Aubry
 
+La liste et la profession de foi sont disponibles [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/1).
 Le programme est très fourni, seules les mesures les plus intéressantes sont affichées ici. Pour voir toutes les mesures, consulte le programme [ici](https://lafranceinsoumise.fr/actualites/elections-europeennes/lavenir-en-commun-en-europe-aussi/) ou [là](pdf/ProgrammeEuropeInsoumise.pdf).
 
 <hr>
