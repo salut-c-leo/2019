@@ -35,16 +35,22 @@ Absolument. Premièrement, il n'y a plus de circonscription régionale, on vote 
 
 ### Quand est-ce qu'on verra les clips de campagne à la télévision ?
 
-Du 13 au 24 mai 2019. Le temps d'antenne est par défaut de deux minutes pour toutes les listes, mais du temps additionnel est attribué en fonction du nombre de sièges à l'Assemblée Nationale et au Sénat.
-La répartition finale est comme suit:
+Du 13 au 24 mai 2019. Le temps d'antenne est par défaut de trois minutes et trente-trois secondes pour toutes les listes, mais du temps additionnel est attribué en fonction du nombre de sièges à l'Assemblée Nationale et au Sénat.  
+La [répartition finale](https://www.csa.fr/Arbitrer/Espace-juridique/Les-textes-reglementaires-du-CSA/Les-decisions-du-CSA/Decision-n-2019-184-du-9-mai-2019-sur-les-emissions-de-la-campagne-officielle-des-Europeennes-2019) est comme suit :  
 
-* LREM-MODEM-PRG : 57 minutes,
-* LR : 35 minutes,
-* PS : 16 minutes,
-* UDI-AGIR : 13 minutes,
-* PCF : 5 minutes,
-* LFI : 4 minutes,
-* toutes les autres listes : 2 minutes.
+* La République En Marche : 55 minutes 53 secondes,
+* Rassemblement National : 48 minutes 11 secondes,
+* Les Républicains : 38 minutes 20 secondes,
+* Place Publique : 19 minutes 43 secondes,
+* La France Insoumise : 18 minutes 37 secondes,
+* Europe Écologie Les Verts : 14 minutes 14 secondes,
+* Les Européens : 10 minutes 52 secondes,
+* Debout La France : 8 minutes 13 secondes,
+* Parti Communiste Français : 7 minutes 40 secondes,
+* Génération·s : 4 minutes 23 secondes,
+* Urgence Écologie : 4 minutes 14 secondes,
+* Les Patriotes : 3 minutes 58 secondes,
+* toutes les autres listes : 3 minutes 33 secondes.
 
 Cette répartition est assez critiquée (voir par exemple [cet article](https://www.liberation.fr/checknews/2018/01/16/le-gouvernement-veut-il-reduire-le-temps-de-parole-de-l-opposition-pour-les-elections-europeennes_1622033)) : il est donc intéressant de consulter les programmes de différentes listes en complément des clips de campagne.
 
