@@ -31,7 +31,7 @@ En cas de perte de la carte électorale de l'année précédente, on peut normal
 
 ### J'ai vu que certaines listes demandent à ce qu'on imprime nous-mêmes le bulletin de vote ?
 
-Oui, c'est notamment les petites listes, avec peu de moyens financiers. On en compte notamment 4 (non exhaustif) : *Allons Enfants*, le *Parti Pirate*, *Décroissance 2019* et *Évolution Citoyenne*. Les partis n'ayant pas le budget précisent dans leur clip de campagne à la radio et la télévision qu'il faudra imprimer le bulletin. Il faudra donc aller sur le site du parti pour le télécharger.  
+Oui, c'est notamment les petites listes, avec peu de moyens financiers. On en compte notamment 4 (non exhaustif) : *Allons Enfants*, le *Parti Pirate*, *Décroissance 2019*, *Évolution Citoyenne* et *Démocratie Représentative*. Les partis n'ayant pas le budget précisent dans leur clip de campagne à la radio et la télévision qu'il faudra imprimer le bulletin. Il faudra donc aller sur le site du parti pour le télécharger.  
 **Mais attention !** Il y a des règles à suivre pour l'impression du bulletin : le bulletin doit être le même que celui fourni au Ministère de l'Intérieur (donc vaut mieux le télécharger sur le site du parti), l'impression se fait en couleurs, sur une feuille blanche 70 grammes au format A4.
 
 ### Je veux voter blanc, est-ce que je dois me ramener avec une feuille blanche ?
