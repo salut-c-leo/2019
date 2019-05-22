@@ -1,6 +1,6 @@
 ##### Tête de liste : Nathalie Loiseau
 
-La liste et la profession de foi sont disponibles [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/5). Le programme est disponible [ici](https://eu-renaissance.org/fr/notre-projet).
+La liste et la profession de foi sont disponibles [ici](https://programme-candidats.interieur.gouv.fr/elections/1/listes/5). Le programme est disponible [ici](https://eu-renaissance.org/fr/notre-projet) ou [là](pdf/programme_lrem.pdf).
 
 ### Introduction
 

@@ -29,6 +29,15 @@ Tout d'abord, pas de panique : on peut voter même sans la carte électorale !
 La carte électorale s'obtient lors de l'inscription sur une nouvelle liste, mais aussi parfois au moment de voter, au bureau de vote.
 En cas de perte de la carte électorale de l'année précédente, on peut normalement demander à la mairie une attestation d'inscription sur les listes électorales.
 
+### J'ai vu que certaines listes demandent à ce qu'on imprime nous-mêmes le bulletin de vote ?
+
+Oui, c'est notamment les petites listes, avec peu de moyens financiers. On en compte notamment 4 (non exhaustif) : *Allons Enfants*, le *Parti Pirate*, *Décroissance 2019* et *Évolution Citoyenne*. Les partis n'ayant pas le budget précisent dans leur clip de campagne à la radio et la télévision qu'il faudra imprimer le bulletin. Il faudra donc aller sur le site du parti pour le télécharger.  
+**Mais attention !** Il y a des règles à suivre pour l'impression du bulletin : le bulletin doit être le même que celui fourni au Ministère de l'Intérieur (donc vaut mieux le télécharger sur le site du parti), l'impression se fait en couleurs, sur une feuille blanche 70 grammes au format A4.
+
+### Je veux voter blanc, est-ce que je dois me ramener avec une feuille blanche ?
+
+Pas nécessairement, une enveloppe vide suffit pour dire que tu votes blanc. Attention cependant, le vote blanc n'est pas reconnu, il est juste comptabilisé.
+
 ### J'ai voté aux Européennes de 2014, y'a-t-il des changements cette année ?
 
 Absolument. Premièrement, il n'y a plus de circonscription régionale, on vote pour une liste nationale. Deuxièmement, avec la sortie du Royaume-Uni de l'Union Européenne, le nombre d'eurodéputé·e·s français·e·s passe de 74 à 79.
