@@ -120,6 +120,7 @@
                             <h6>Le nom des listes est celui déposé au Ministère de l'Intérieur, avec entre parenthèses
                                 le nom du parti pour s'y retrouver.
                             </h6>
+                            <h6>Le score des listes sera affiché ultérieurement.</h6>
                         </small>
                     </div>
                     <div class="col-lg-12" style="width: 100%;">
@@ -207,8 +208,8 @@
                                 <div class="alignitformeplease" id="voixtext"></div>
                             </li>
                             <li>
-                                <h3 class="alignitformeplease">Une Europe au service des peuples <button class="btn btn-default btn-sm"
-                                        onclick="udmfdiv(this)">Dérouler</button></h3>
+                                <h3 class="alignitformeplease">Une Europe au service des peuples <button
+                                        class="btn btn-default btn-sm" onclick="udmfdiv(this)">Dérouler</button></h3>
                                 <div class="alignitformeplease" id="udmftext"></div>
                             </li>
                             <li>
@@ -328,8 +329,6 @@
             <div class="letmeread">
                 <div class="container">
                     <br>
-                    <h4>Les élections ont lieu dans :</h4><br />
-                    <p><b><span id="clock"></span></b></p>
                     <div id="howtovote"></div>
                 </div>
             </div>
@@ -339,7 +338,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Dernière mise à jour du site : 19 mai 2019.<br>Le contenu de ce site est sous licence Creative
+            <p>Dernière mise à jour du site : 26 mai 2019.<br>Le contenu de ce site est sous licence Creative
                 Commons Attribution 4.0, il a été rédigé par <a href="https://mrtino.eu">Leia</a> et <a
                     href="https://github.com/mrtino/2019/blob/master/AUTHORS.md">d'autres</a>.<br>
                 Tu peux contribuer à l'amélioration du site en allant sur sa page <a
@@ -371,28 +370,6 @@
     <!-- Core of the website -->
     <script src="js/leia/candidats.min.js"></script>
 
-    <!-- Countdown code -->
-    <script src="js/countdown/countdown.min.js"></script>
-
-    <!-- Compte à rebours avant le jour des élections -->
-    <script>
-        var clock = document.getElementById("clock")
-            , targetDate = new Date("May 26, 2019 20:00:00");
-
-        clock.innerHTML = countdown(targetDate).toString();
-        countdown.setLabels(' milliseconde| seconde| minute| heure| jour| semaine| mois| année| décennie| siècle| millénaire', ' millisecondes| secondes| minutes| heures| jours| semaines| mois| années| décennies| siècles| millénaires', ' et ', ', ', 'maintenant');
-    </script>
-
-    <!--Pour rendre le compte à rebours dynamique-->
-    <script>
-        var clockt = document.getElementById("countdown-holder")
-            , targetDate = new Date("May 26, 2019 20:00:00");
-
-        clock.innerHTML = countdown(targetDate).toString();
-        setInterval(function () {
-            clock.innerHTML = countdown(targetDate).toString();
-        }, 1000);
-    </script>
 </body>
 
 </html>
