@@ -65,4 +65,4 @@ Cette répartition est assez critiquée (voir par exemple [cet article](https://
 
 ### Après avoir voté, qu'est-ce qu'il va se passer ?
 
-Les listes ayant obtenu au moins 5% des suffrages bénéficient d’un nombre de sièges proportionnel à leur nombre de voix. C'est des maths, et moi j'y comprends rien aux maths, donc on verra bien ce que ça donne quand on aura les résultats.
+Les listes ayant obtenu au moins 5% des suffrages bénéficient d’un nombre de sièges proportionnel à leur nombre de voix. Le Rassemblement National et La République En Marche obtiennent 23 sièges chacuns, Europe Écologie Les Verts 13 sièges, Les Républicains 8 sièges, la France Insoumise et Place Publique 6 sièges chacuns.
